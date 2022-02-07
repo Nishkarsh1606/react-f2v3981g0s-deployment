@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43e00c6a.css",
+    "main.js": "/static/js/main.3aa485d2.js",
+    "static/media/doctor-vwfbulqe8179e.jpeg": "/static/media/doctor-vwfbulqe8179e.eb5a55ff0ac405768327.jpeg",
+    "static/media/founder-story_bottom-left.svg": "/static/media/founder-story_bottom-left.31264bb4557703265c6a.svg",
+    "static/media/pricing_top-left.svg": "/static/media/pricing_top-left.64a8e2ffcf3731487d9c.svg",
+    "index.html": "/index.html",
+    "static/media/lifestyle_bottom-right.svg": "/static/media/lifestyle_bottom-right.693514a92cd91f84c35a.svg",
+    "static/media/whyus_top-right.svg": "/static/media/whyus_top-right.afe9e19a0f63d9d867dd.svg",
+    "static/media/founder-story_top-right.svg": "/static/media/founder-story_top-right.16451b06e14171e002fc.svg",
+    "static/media/t67uh63ry3e.svg": "/static/media/t67uh63ry3e.9bd21d594419aab596e7db75b7e20395.svg",
+    "static/media/lifestyle_top-left.svg": "/static/media/lifestyle_top-left.d4cc340d1e58f77e438c.svg",
+    "main.43e00c6a.css.map": "/static/css/main.43e00c6a.css.map",
+    "main.3aa485d2.js.map": "/static/js/main.3aa485d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e00c6a.css",
+    "static/js/main.3aa485d2.js"
+  ]
+}
